@@ -7,8 +7,8 @@ Para ello la función objetivo consiste en la diferencia que hay entre los color
 
 
 
-Creditos a:
-  Pedro Gonzalez
+Creditos:
+  Pedro Gonzalez,
   Juan Olivares 
   
   
